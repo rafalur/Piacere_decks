@@ -1,2 +1,3 @@
 basic_sentences.csv
 basic_sentences2.csv
+basic_phrases.csv
