@@ -1,3 +1,5 @@
-"basic_sentences", "Podstawowe zwroty"
-"basic_sentences2", "Włoski da się lubić"
 "basic_phrases", "Podstawowe wyrażenia"
+"essere", "Czasownik 'essere'"
+"nounes_basic", "Rzeczowniki + rodzajniki"
+"verbs_regular", "Czasowniki regularne zakończone na 'are'"
+"verbs_regular_2", "Czasowniki regularne zakończone na 'ere'" 
