@@ -3,3 +3,5 @@
 "nounes_basic", "Rzeczowniki + rodzajniki"
 "verbs_regular", "Czasowniki regularne zakończone na 'are'"
 "verbs_regular_2", "Czasowniki regularne zakończone na 'ere'" 
+"numbers", "Liczby" 
+"days_months", "Dni tygodnia, miesiące" 
