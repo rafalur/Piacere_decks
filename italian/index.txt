@@ -3,3 +3,6 @@
 "numbers"
 "essere"
 "articles"
+"vocabulary_busuu1"
+"vocabulary_busuu2"
+"vocabulary_busuu3"
