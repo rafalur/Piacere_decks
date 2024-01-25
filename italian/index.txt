@@ -6,3 +6,5 @@
 "vocabulary_busuu1"
 "vocabulary_busuu2"
 "vocabulary_busuu3"
+"vocabulary_busuu4"
+"phrasebook"
