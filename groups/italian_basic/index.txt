@@ -1,2 +1,3 @@
 "group_name", "Włoski podstawowy"
+"image_file_name", "italian_flag.png"
 

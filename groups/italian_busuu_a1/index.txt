@@ -1,1 +1,3 @@
 "group_name", "Włoski A1 - Busuu"
+"image_file_name", "italian_flag.png"
+
