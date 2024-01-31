@@ -1,0 +1,7 @@
+"numbers"
+"days_months"
+"basic_phrases"
+"essere"
+"phrasebook"
+"articles"
+
