@@ -1,0 +1,3 @@
+"group_name", "Włoski - czasowniki nieregularne"
+"image_file_name", "italian_flag.png"
+
